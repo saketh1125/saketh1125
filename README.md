@@ -1,137 +1,156 @@
 # Saketh Decharaju
 
-### Applied AI Systems Engineer | Edge AI | Realtime ML | Intelligent Systems
+## Applied AI Systems Engineer | Edge AI | Realtime Inference | Intelligent Platforms
 
-Building offline-first AI systems, realtime inference pipelines, multimodal tools, and socially impactful products.
+Designing AI systems that operate under real-world constraints involving latency, scalability, edge deployment, realtime processing, and production-oriented architecture.
 
----
+My primary interests include:
 
-## About Me
-
-I focus on designing practical AI systems that operate under real-world constraints such as:
-
-- low latency
-- mobile-device limitations
-- realtime processing
-- edge inference
-- scalable architectures
-- intelligent automation
-
-My work spans across:
-
-- Realtime Deepfake Detection
-- RAG Pipelines
-- Civic-Tech Platforms
-- AI-assisted Financial Intelligence
-- Multimodal Systems
-- Offline AI Infrastructure
+- Edge AI & Mobile Inference
+- Realtime Machine Learning Systems
+- Applied Computer Vision
+- RAG & Knowledge Systems
+- Distributed System Design
+- Intelligent Automation
+- Civic-Tech Infrastructure
+- Financial Intelligence Systems
+- Offline-First AI Platforms
 
 ---
 
-## Featured Projects
+## Engineering Focus
 
-### PratibimbAI
-AI-powered intelligent system selected among the **Top 30 Teams in SANKALP by Cograd**.
+I work on building practical AI systems that combine:
 
-**Focus Areas:**
-- Intelligent analysis systems
-- Applied AI workflows
-- Product-oriented AI engineering
+- low-latency inference pipelines
+- scalable backend architectures
+- realtime data processing
+- multimodal intelligence systems
+- optimization for constrained hardware
+- production-oriented system design
+
+Rather than isolated ML experimentation, I focus on end-to-end engineering pipelines involving preprocessing, inference orchestration, optimization, integration, and deployment.
 
 ---
 
-### PramanaGST
-Financial intelligence and scam-detection platform using graph-based relationship analysis.
+# Flagship Projects
 
-**Focus Areas:**
+## PratibimbAI
+Selected among the **Top 30 Teams in SANKALP by Cograd**.
+
+PratibimbAI focuses on intelligent AI-assisted analytical workflows and production-oriented applied intelligence systems.
+
+### Key Areas
+- Applied AI engineering
+- Intelligent workflow systems
+- AI-assisted analytical platforms
+- Product-oriented system design
+
+---
+
+## PramanaGST
+Graph-driven financial intelligence and scam-detection platform focused on identifying suspicious transactional relationships and anomaly patterns.
+
+### System Concepts
 - Circular transaction analysis
-- Graph-based anomaly detection
-- Financial relationship intelligence
+- Relationship graph intelligence
+- Financial anomaly detection
+- Fraud-pattern exploration
 - GST ecosystem analysis
 
 ---
 
-### Abhaya-Netra
-Realtime deepfake and anomaly detection pipeline optimized for mobile devices.
+## Abhaya-Netra
+Realtime deepfake and anomaly detection system optimized for mobile devices.
 
-Designed around strict realtime constraints:
-- preprocessing
-- inference
-- smoothing
-- UI rendering
-- rapid inference cycles
+Designed around strict engineering constraints requiring:
 
-All executed on mid-range mobile hardware with sub-second responsiveness.
+- rapid preprocessing
+- realtime inference
+- prediction smoothing
+- UI synchronization
+- continuous inference cycles
 
-**Focus Areas:**
+The system targets sub-second processing responsiveness on mid-range mobile hardware.
+
+### Technical Focus
 - Edge AI
-- Realtime ML inference
-- Mobile AI optimization
-- Computer Vision pipelines
-- Systems engineering
+- Realtime ML pipelines
+- Mobile inference optimization
+- Computer Vision systems
+- Latency-sensitive engineering
+- End-to-end inference orchestration
 
 ---
 
-### Civic-Link
-Production-grade civic-tech platform currently under active development.
+## Civic-Link
+Large-scale civic-tech platform currently under development with a production-oriented architecture.
 
-Planned architecture includes:
+The project is being designed around:
+
 - scalable backend systems
-- modern distributed architecture
-- robust API pipelines
-- intelligent automation workflows
-- full-stack production deployment
+- modular services
+- robust API infrastructure
+- distributed workflows
+- automation pipelines
+- production-grade deployment architecture
 
 ---
 
-### Veritas-RAG
-Exploration of retrieval-augmented generation pipelines and AI knowledge systems.
+## Veritas-RAG
+Exploration of retrieval-augmented generation architectures and intelligent knowledge retrieval systems.
 
-**Focus Areas:**
-- RAG architecture
-- Vector retrieval
+### Technical Areas
+- Retrieval pipelines
+- Vector search systems
 - Context-aware generation
-- AI information systems
+- AI-assisted information retrieval
+- Knowledge orchestration systems
 
 ---
 
-## Technical Interests
+## Technical Domains
 
 ```text
 AI Systems Engineering
 Edge AI
-Realtime ML
-RAG Pipelines
-Computer Vision
-System Design
+Realtime Inference
 Distributed Systems
+Computer Vision
+RAG Architectures
+System Design
 Multimodal AI
+Backend Engineering
 Mobile AI Optimization
+Scalable Infrastructure
 Civic-Tech
+Financial Intelligence
 ```
 
 ---
 
-## Achievements
+# Achievements
 
 - Winner at Techfest IIT Bombay with the project **SuvyAIkth**
 - Selected among Top 30 Teams in **SANKALP by Cograd**
-- Building AI systems focused on practical deployment constraints and production-oriented engineering
+- 3rd Place at **Vivriti Capital Competition at IIT Hyderabad**
+- Building AI systems focused on practical deployment constraints and production-grade engineering
 
 ---
 
-## Current Direction
+# Current Direction
 
-I am currently focused on building:
+Currently focused on developing:
 
-- scalable AI-driven platforms
-- offline-first intelligent systems
+- production-grade intelligent systems
+- scalable AI infrastructure
+- offline-first AI platforms
 - realtime inference architectures
-- production-grade applied AI systems
+- constraint-aware AI deployment pipelines
+- intelligent civic and financial systems
 
 ---
 
-## Connect
+# GitHub
 
 - GitHub: https://github.com/saketh1125
-- LinkedIn: Add your LinkedIn here
